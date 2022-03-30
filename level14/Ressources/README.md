@@ -139,3 +139,7 @@ Check flag.Here is your token : 7QiHafiNa3HVozsaXkawuYrTstxbpABHD8CPnHJ
 About `ptrace` : 
 - https://stackoverflow.com/questions/33646927/bypassing-ptrace-in-gdb#33647443
 - https://www.bases-hacking.org/ptrace.html
+
+Assembly : 
+- https://beta.hackndo.com/assembly-basics/
+- http://www.gdbtutorial.com/tutorial/commands
